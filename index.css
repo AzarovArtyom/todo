@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.tasksList{
+    margin-top: 50px;
+}
+
+.task{
+    margin: 20px;
+}
+
